@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sean Miller (Zozi)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  }
 }
