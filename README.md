@@ -3,7 +3,11 @@ This is a simple application to learn how to use webpack.
 
 
 #### Getting Started
-Execute:
+Install dependencies:
+```bash
+yarn install
+```
+Run
 ```bash
   npm start
 ```
