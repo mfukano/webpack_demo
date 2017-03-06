@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack"
+    "start": "webpack && open index.html"
   },
   "author": "Sean Miller (Zozi)",
   "license": "ISC",
