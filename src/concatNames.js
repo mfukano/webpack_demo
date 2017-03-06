@@ -1,3 +1,4 @@
-module.exports = function concatNames(firstName, lastName) {
-  return firstName + ' ' + lastName;
+module.exports = function (firstName, lastName) {
+  // Lets use some ES2015 Template Strings
+  return `${firstName} ${lastName}`;
 };
